@@ -2,8 +2,6 @@
 
 A modern Todo application with authentication, built using React, Redux, and Context API. This project demonstrates advanced state management patterns and route protection through authentication.
 
-## 🚀 Live Demo
-[View Live Demo](https://todo-app-git-main-ajits-projects-3c60f075.vercel.app/)
 
 ## ✨ Features
 
